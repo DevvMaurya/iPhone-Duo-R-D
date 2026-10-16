@@ -16,3 +16,4 @@ This repo contains only R&amp;D related to iPhone Duo.
    
    <img width="307" height="363" alt="Screenshot 2026-10-16 at 4 36 33 PM" src="https://github.com/user-attachments/assets/4c4415d4-f23b-404a-9906-4f077406c03b" />
 
+   <img width="464" height="305" alt="Screenshot 2026-10-16 at 4 50 00 PM" src="https://github.com/user-attachments/assets/84735c19-194a-4ea6-ad10-040f6cf288de" />
