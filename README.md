@@ -12,7 +12,7 @@ This repo contains only R&amp;D related to iPhone Duo.
 
 3. Edge Explore
    
-   <img width="371" height="210" alt="Screenshot 2026-10-16 at 4 19 55 PM" src="https://github.com/user-attachments/assets/4ac01f70-13e6-42b5-ab06-402399facde8" />
+   <img width="471" height="210" alt="Screenshot 2026-10-16 at 4 19 55 PM" src="https://github.com/user-attachments/assets/4ac01f70-13e6-42b5-ab06-402399facde8" />
    
-   <img width="207" height="363" alt="Screenshot 2026-10-16 at 4 36 33 PM" src="https://github.com/user-attachments/assets/4c4415d4-f23b-404a-9906-4f077406c03b" />
+   <img width="307" height="363" alt="Screenshot 2026-10-16 at 4 36 33 PM" src="https://github.com/user-attachments/assets/4c4415d4-f23b-404a-9906-4f077406c03b" />
 
