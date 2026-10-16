@@ -11,7 +11,11 @@ This repo contains only R&amp;D related to iPhone Duo.
    <img width="202" height="323" alt="Screenshot 2026-10-15 at 4 32 39 PM" src="https://github.com/user-attachments/assets/7061d2e8-6a96-4696-bf94-4f0f0e20cc63" />
 
 3. Edge Explore
-   
+   When you want to create custom views in the status bar or inside the safe area.
+   - The four glass close button shows the default safe area which is followed by the all the views in swift UI.
+   - X, share & more button are Toolbar buttons.
+   - Circle A, B are two custom views which are placed inside the tool bar.
+     
    <img width="471" height="310" alt="Screenshot 2026-10-16 at 4 19 55 PM" src="https://github.com/user-attachments/assets/4ac01f70-13e6-42b5-ab06-402399facde8" />
    
    <img width="307" height="363" alt="Screenshot 2026-10-16 at 4 36 33 PM" src="https://github.com/user-attachments/assets/4c4415d4-f23b-404a-9906-4f077406c03b" />
