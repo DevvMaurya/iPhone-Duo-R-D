@@ -16,4 +16,8 @@ This repo contains only R&amp;D related to iPhone Duo.
    
    <img width="307" height="363" alt="Screenshot 2026-10-16 at 4 36 33 PM" src="https://github.com/user-attachments/assets/4c4415d4-f23b-404a-9906-4f077406c03b" />
 
+- # When the toolbar items are on One side
    <img width="464" height="305" alt="Screenshot 2026-10-16 at 4 50 00 PM" src="https://github.com/user-attachments/assets/84735c19-194a-4ea6-ad10-040f6cf288de" />
+
+   <img width="312" height="202" alt="Screenshot 2026-10-16 at 4 52 54 PM" src="https://github.com/user-attachments/assets/e35a1f68-6034-4fe2-b407-c23370a60467" />
+
