@@ -31,18 +31,19 @@ This repo contains only R&amp;D related to iPhone Duo.
       
 
 ## 5. Device Layout Manager file
-   The Code of this file helps us to identify the current iPhone Duo's state, Such as 
-   
+   The Code of this file helps us to identify the current iPhone Duo's state,
+
+   # Device States
    ```swift
    enum DeviceLayoutState {
     case compactPortrait
     case compactLandscape
     case expandedPortrait
     case expandedLandscape
-   } ```
-
-   ```swift
-   Hinge States Such as follow
+   }
+   
+   # Hinge States
+   ```
    enum HingeState {
     case unavailable
     case closed
