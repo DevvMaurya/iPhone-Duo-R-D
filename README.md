@@ -50,4 +50,28 @@ This repo contains only R&amp;D related to iPhone Duo.
     case closed
     case partiallyOpen
     case fullyOpen
-   }```
+   }
+
+==========================USE====================================
+   # You need to wrap your application view inside the DeviceLayoutProvide View. 
+   var body: some Scene {
+        WindowGroup {
+            DeviceLayoutProvider{
+               YourView
+               }
+         }
+   }
+
+   ==========CALL THE MODIFIER=================
+   struct YourScreenView: View{
+       ...
+       @EnvironmentObject var deviceLayout: DeviceLayoutManager
+       ...
+
+       if self.deviceLayout.hingeState == .unavailable{
+             # show this view when hinge is not available such as normal iPhones
+       }else{
+           # show this view when hinge is available such as normal iPhone Duo
+       }
+   }
+         
