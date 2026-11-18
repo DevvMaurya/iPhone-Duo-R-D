@@ -30,4 +30,12 @@ This repo contains only R&amp;D related to iPhone Duo.
   <img width="379" height="228" alt="Screenshot 2026-11-18 at 5 18 28 PM" src="https://github.com/user-attachments/assets/e56066f3-7e48-4ef9-b612-bc4ce50a3df2" />
       
 
-
+## 5. Device Layout Manager file
+   The Code of this file helps us to identify the current iPhone Duo's state, Such as 
+   
+   <code> enum DeviceLayoutState {
+    case compactPortrait
+    case compactLandscape
+    case expandedPortrait
+    case expandedLandscape
+   } </code>
