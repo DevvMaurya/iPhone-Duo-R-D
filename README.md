@@ -25,3 +25,6 @@ This repo contains only R&amp;D related to iPhone Duo.
 
    <img width="312" height="202" alt="Screenshot 2026-10-16 at 4 52 54 PM" src="https://github.com/user-attachments/assets/e35a1f68-6034-4fe2-b407-c23370a60467" />
 
+   4. Custom Tabbar
+      
+
